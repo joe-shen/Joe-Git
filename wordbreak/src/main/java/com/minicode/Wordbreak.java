@@ -9,7 +9,7 @@ import java.util.ArrayList;
  */
 public class Wordbreak {
 	
-	//²ð·Ö²¢Êä³ö
+	//ï¿½ï¿½Ö²ï¿½ï¿½ï¿½ï¿½
 	public void doWordBreak(String str,Dictionary dict) {
 		String result="";
 		ArrayList<String> resultList=new ArrayList();
@@ -34,7 +34,9 @@ public class Wordbreak {
 		
 		Wordbreak wb=new Wordbreak();
 		wb.doWordBreak(str1, dict);
-		 		
+	    
+		//hhgggg
+		
 	}
 
 }
