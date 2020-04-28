@@ -35,7 +35,7 @@ public class Wordbreak {
 		Wordbreak wb=new Wordbreak();
 		wb.doWordBreak(str1, dict);
 	    
-		//hhgggg
+		//hhgg
 		
 	}
 
